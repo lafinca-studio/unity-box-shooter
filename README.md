@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGsNlOhTPTwQ3oRq1iAz_LkATF9CHWGqPi9BPTMe7_9urE1LS3w&s" width = "600" height="400"></p>
 
-DragonVania is a game made throughout the [Michigan State University GameDeve course](http://gamedev.msu.edu/). The objective is learning how to code in C# having fun and developing a game in Unity Engine.
+DragonVania is a game made throughout the [Michigan State University GameDev course](http://gamedev.msu.edu/). The objective is learning how to code in C# having fun and developing a game in Unity Engine.
 
 ### Version Log
 ----
