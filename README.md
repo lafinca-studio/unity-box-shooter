@@ -1,4 +1,4 @@
-<a href="https://lafinca-studio.github.io/unity-box-shooter/"><h1 align="center"><img src="https://i.udemycdn.com/user/200_H/33027212_4271_5.jpg" width= "90" height="70" alt="Gamedev.tv">Box Shooter</img></h1></a>
+<a href="https://lafinca-studio.github.io/unity-box-shooter/"><h1 align="center"><img src="https://brand.msu.edu/_files/images/logo-helmet-black.png" width= "90" height="70" alt="Gamedev.tv">Box Shooter</img></h1></a>
 
 
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGsNlOhTPTwQ3oRq1iAz_LkATF9CHWGqPi9BPTMe7_9urE1LS3w&s" width = "600" height="400"></p>
