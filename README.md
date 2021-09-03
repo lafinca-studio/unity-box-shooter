@@ -1,4 +1,4 @@
-<a href="https://arthsan.github.io/unity-box-shooter"><h1 align="center"><img src="https://www.trzcacak.rs/myfile/detail/230-2304172_michigan-state-university-michigan-state-college-football-logo.png" width= "90" height="70" alt="Gamedev.tv">Box Shooter</img></h1></a>
+<a href="https://lafinca-studio.github.io/unity-box-shooter/"><h1 align="center"><img src="https://www.trzcacak.rs/myfile/detail/230-2304172_michigan-state-university-michigan-state-college-football-logo.png" width= "90" height="70" alt="Gamedev.tv">Box Shooter</img></h1></a>
 
 
 <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXGsNlOhTPTwQ3oRq1iAz_LkATF9CHWGqPi9BPTMe7_9urE1LS3w&s" width = "600" height="400"></p>
@@ -37,7 +37,7 @@ There are two levels that you can enjoy and beat them. Good Luck! xD
 
 You can view my project in your browser:
 
-The game is on GitHub Pages : [Box Shooter](https://arthsan.github.io/unity-box-shooter)
+The game is on GitHub Pages : [Box Shooter](https://lafinca-studio.github.io/unity-box-shooter/)
 
 ### Unsolved problems:
 -------------------------
